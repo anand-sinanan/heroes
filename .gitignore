@@ -1,0 +1,3 @@
+node_modules/
+# settings file to ignore to protect API keys
+settings.json
